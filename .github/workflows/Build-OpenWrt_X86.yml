@@ -22,7 +22,7 @@ on:
   #   - cron: 0 */8 * * *
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/openwrt/openwrt
   REPO_BRANCH: 22.03
   FEEDS_CONF: feeds_config/custom.feeds.conf.default
   CONFIG_FILE: config/X86.config
